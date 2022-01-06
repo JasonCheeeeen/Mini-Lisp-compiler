@@ -1,4 +1,4 @@
-# Compiler Final-project
+# Mini-Lisp
 ## Make file
 ```
 $ make
