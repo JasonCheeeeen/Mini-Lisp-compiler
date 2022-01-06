@@ -2,6 +2,7 @@
 ## Make file
 ```
 $ make
+$ ./minilisp < input.lsp
 ```
 ## Main idea
 - flow chart
